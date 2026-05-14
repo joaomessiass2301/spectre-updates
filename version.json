@@ -1,0 +1,11 @@
+{
+  "latest_version": "1.0.0",
+  "download_url": "https://github.com/joaomessiass2301/spectre-updates/releases",
+  "changelog": [
+    "Primeira versão pública do SPECTRE",
+    "Interface com categorias de comandos",
+    "Classificação de risco por comando",
+    "Ponto de restauração automático para comandos críticos",
+    "Sistema inicial de verificação de atualizações"
+  ]
+}
